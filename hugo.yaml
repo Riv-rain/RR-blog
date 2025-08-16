@@ -7,7 +7,7 @@
 #     mainSections:
 #         - post
 
-baseURL: ""
+baseURL: "https://riv-rain.github.io/RR-blog/"
 languageCode: "zh-cn"
 theme: "hugo-theme-stack"
 title: "我的博客" # 你可以在这里改成你自己的博客标题
