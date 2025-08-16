@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "zh-cn"
+theme = "hugo-theme-stack"
+title = "我的博客"
+
+[params]
+    mainSections = ["post"]
