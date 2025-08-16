@@ -45,14 +45,14 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 陶喆-孙燕姿-王菲
         avatar:
             enabled: true
             local: true
             src: img/头像1.jpg
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -194,15 +194,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Riv-rain
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+        # - identifier: 
+        #   name: 
+        #   url: 
+        #   params:
+        #       icon: 
 
 related:
     includeNewer: true
